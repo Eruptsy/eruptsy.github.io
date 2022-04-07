@@ -2,7 +2,7 @@
 <header>
     <title> Eruptsy </title>
 </header>
-  </style>
+<style>
 body {
 background-color: #202020;
 }
